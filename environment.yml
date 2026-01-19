@@ -1,0 +1,28 @@
+name: Recommender
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - pyarrow
+  - sentence-transformers
+  - transformers
+  #- torch
+  - implicit
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - fastapi
+  - uvicorn
+  - jinja2
+  - psycopg2-binary
+  - sqlalchemy
+  - redis
+  - python-dotenv
+  - tqdm
+  - umap-learn
+  - faiss-cpu
