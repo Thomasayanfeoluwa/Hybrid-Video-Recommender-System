@@ -313,7 +313,7 @@ Placement: End of section 9.
 
 ### 10. Project Structure
 
-project/
+<!-- project/
 ├── # Root files
 │ ├── app.py
 │ ├── setup.py
@@ -379,7 +379,7 @@ project/
 │
 └── # Models directory
 ├── models/faiss_index/.gitkeep
-└── models/als_model/.gitkeep
+└── models/als_model/.gitkeep -->
 
 ---
 

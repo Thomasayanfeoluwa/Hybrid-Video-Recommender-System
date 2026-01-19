@@ -11,7 +11,7 @@ dependencies:
   - pyarrow
   - sentence-transformers
   - transformers
-  #- torch
+  - torch
   - implicit
   - scikit-learn
   - matplotlib
